@@ -1,3 +1,5 @@
+Forking to use as template for developing sidechains
+
 Zside 
 ===========
 
